@@ -1,3 +1,3 @@
-<h1>Encriptador de Texto</h1>
-Para utilizar el encriptador, escriba una frase cualquiera cuidando utilizar solo minúsculas sin tilde y presione el boton encriptar.
-Para desencriptar el texto, simplemente presione "desencriptar"
+# ENCRIPTADOR DE TEXTO PARA PRIMER CHALLENGE ALURA ONE
+
+Desarrollado utilizando HTML, CSS y JS rudimentario.
